@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 """
 This is just code for the introduction to Python.

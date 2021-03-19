@@ -1,0 +1,8 @@
+{
+    "env": {
+        "PYTHONPATH": "${workspaceRoot}"
+    },
+    "configurations": [
+
+    ]
+}
